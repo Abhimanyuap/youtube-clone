@@ -9,7 +9,7 @@ import {RxAvatar} from "react-icons/rx"
 
 const Navbar = () => {
   return (
-    <nav className='flex justify-between items-center h-16 p-2'>
+    <nav className='flex justify-between items-center h-16 px-8'>
       <div className='flex justify-start h-full w-40 items-center gap-4'>
         <div>
         <RxHamburgerMenu size={30} />
